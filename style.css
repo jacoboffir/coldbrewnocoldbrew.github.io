@@ -1,0 +1,13 @@
+#marco {
+    border: 1px solid black;
+    width: 600px;
+    height: auto;  
+    margin: auto;
+    text-align: center;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    position: fixed;
+    top: 75%;
+    left: 50%;
+    transform: translateX(-50%);
+}
